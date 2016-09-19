@@ -167,7 +167,7 @@ audio:not([controls]) {
   height: 0; }
 
 img {
-  max-width: 100%;
+ 
   vertical-align: middle; }
 
 audio,
